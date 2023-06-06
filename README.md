@@ -117,7 +117,7 @@ Experience the convenience of having a personalized restaurant recommendation to
 <!-- GETTING STARTED -->
 ## Getting Started
 
-<a href="https://colab.research.google.com/github/AUTHORNAME/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>\
+<a href="https://colab.research.google.com/github/AUTHORNAME/PROJECTNAME/blob/main/App.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>\
 alternatively clone the repo:
 ```
 git clone https://github.com/Akshay-Madapura/MoodSavvor.git
