@@ -173,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-AUTHORNAME - [@AUTHORNAME](https://github.com/Akshay-Madapura) - [e-mail](mailto:akshay.madapura@students.iaac.net) - [LinkedIn][linkedin-url]
+AUTHORNAME - [@Akshay-Madapura](https://github.com/Akshay-Madapura) - [e-mail : akshay.madapura@students.iaac.net](mailto:akshay.madapura@students.iaac.net) - [LinkedIn][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
