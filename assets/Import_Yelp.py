@@ -7,7 +7,7 @@ import openpyxl
 business_id = 'Restaurants'
 
 #Define API Key, Endpoint, and Header
-API_KEY = 'Ts1iiib5E9KKdoTRUYIlbJn-Vo1D2RPwV3oDokqV27J_BlFzJzEmQDcChG1UVVKVu6nNk63N12F5VGIBcRaLNCtjABbzLwTtJv_zj5BT70nTaZSjqsWEtt9zAw5dZHYx'
+API_KEY = 'Your API Key'
 BUSINESS_PATH = 'https://api.yelp.com/v3/businesses/search'
 HEADERS = {'Authorization': 'bearer %s' % API_KEY}
 
