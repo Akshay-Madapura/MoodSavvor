@@ -17,10 +17,10 @@
     <img src="assets/logo.svg" alt="Logo" width="150">
   </a>
 
-  <h3 align="center"> PROJECTNAME </h3>
+  <h3 align="center"> MOODSAVVOR </h3>
 
   <p align="center" style="font-weight: bold;">
-    IAAC: AI in Urbanism 2022-23
+    IAAC: AI in the Built Environment
     <br />
     <a href="https://colab.research.google.com/github/GITHUBNAME/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb">View Demo</a>
     ·
@@ -70,14 +70,14 @@
 
 ![Project image](assets/main_image.png)
 
-Project developed under the course AI in Urbanism 2022-23 in [IAAC](https://iaac.net/).
+Project developed under the course AI in the Built Environment 2022-23 in [IAAC](https://iaac.net/).
 
-__Description:__ one sentence description of the project containing why, what, how (where and for whom) \
- __Problem statement:__ which problem the project solves, _why_ you are doing it. \
- __Idea:__ _what_ you are doing to solve the problem \
- __Solution:__ _how_ you are solving the problem, the method \
- __Place:__ _where_ \
- __Beneficiaries:__ the users of the project, _who_ will benefit from it.
+__Description:__ The project is an app prototype which enables the user to find the best suited restaurant depending on the user's requirements and preferences over various factors based on the list of restaurants available in the city of Barcelona \
+ __Problem statement:__ The app provides a sulution in finding the best suited restaurant rather than bombard the user with information and makes the decision for them. This way the user saves time in terms of filtering information and decision making \
+ __Idea:__ The team has created an app(prototype) to solve the filtering and decision making problem by letting the app do it for them \
+ __Solution:__ The app makes decisions based on the reviews obtained online and performing unsupervised clustering to obtain the best suited restaurants \
+ __Place:__ Barcelona \
+ __Beneficiaries:__ Any person who wishes to obtain a place to eat
 
 
 
