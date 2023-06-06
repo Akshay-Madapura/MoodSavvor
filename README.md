@@ -181,10 +181,10 @@ AUTHORNAME - [@Akshay-Madapura](https://github.com/Akshay-Madapura) - [e-mail : 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Team
-Alessandra Weiss
-Yue Wu
-Akshay Madapura
-Alex Ferragu
+* Alessandra Weiss
+* Yue Wu
+* Akshay Madapura
+* Alex Ferragu
 
 <!-- <br />
 <div style="width:100;" width=100%>
@@ -197,8 +197,8 @@ Alex Ferragu
         </a>
       <a href="https://iaac.net">
             <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
-        </a> -->
-    </div>
+        </a>
+    </div> -->
   <h3>Supervisors</h3>
   <br />
     <div style="display:flex; flex-direction: row; flex:wrap; justify-content:space-around;">
