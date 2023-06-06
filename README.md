@@ -115,7 +115,7 @@ A longer description of the project, not more than 150 words.
 
 ### Methodology
 
-![Methodology](assets/Methodology_AI.JPG)
+![Methodology](assets/Methedology_AI.JPG)
 
 
 <!-- GETTING STARTED -->
