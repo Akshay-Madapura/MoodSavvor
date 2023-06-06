@@ -85,7 +85,11 @@ __Description:__ The project is an app prototype which enables the user to find 
 
 ### Intro
 
-A longer description of the project, not more than 150 words.
+Introducing our innovative app, designed to revolutionize your dining experience! By harnessing the power of Yelp's extensive database of information and user reviews, our app aims to help you find the best restaurants in your location. We understand that choosing a restaurant involves considering multiple factors, including reviews, vibes, price, rating, and distance. Our app takes all of these aspects into account, using a unique algorithm that assigns weights to each factor based on your preferences.
+
+Employing the advanced technique of K-means clustering, our app analyzes the vast array of restaurant options and categorizes them into clusters based on their similarities. This allows us to identify the best-suited restaurants for you, tailored to your individual tastes and requirements. Whether you're seeking a trendy café, a budget-friendly eatery, or a highly-rated fine dining establishment, our app ensures that your dining choices align perfectly with your preferences.
+
+Experience the convenience of having a personalized restaurant recommendation tool at your fingertips. Say goodbye to decision fatigue and let our app simplify your dining choices. Discover hidden culinary gems, explore new flavors, and embark on delightful gastronomic adventures with confidence. Download our app now and let us guide you to the best restaurants in your area, ensuring memorable dining experiences every time.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,16 +101,8 @@ A longer description of the project, not more than 150 words.
 * [python3](https://www.python.org/)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [sklearn](https://scikit-learn.org/stable/)
-* [HuggingFace](https://huggingface.co/)
-* [Pytorch](https://pytorch.org/)
-* [Tensorflow](https://www.tensorflow.org/)
-* [Mapbox](https://www.mapbox.com/)
-* [GoogleStreetMaps](https://mapsplatform.google.com/)
 * [Yelp](https://www.yelp.se/stockholm)
 * [OpenAI API](https://openai.com/product)
-* [Midjourney](https://midjourney.com/)
-* [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
-* [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [Colab](https://colab.research.google.com/)
 
@@ -135,19 +131,22 @@ None
 ### Usage
 
 To use the project follow these steps:\
-_Describe how to use your project (e.g. how to import the csv file you used, which cells to run to see which output, which packages to install, where to create an account (e.g. a token for chatgpt ?))_
-* Step 1
-* Step 2
+
+* Step 1 : (Optional) Run the yelp file with your yelp API id and key to obtain the information to a csv file
+* Step 2 : (Optional) Sort the information based on the vibes of your preferences. (The above steps may be skipped if using uploaded fike.)
+* Step 3 : Upload file path of the sorted data to the APP file.
+* Step 4 : Execute the file. Enter the prefered weights to factors based on preferences when prompted.
+* Step 5 : Enter your prompt when prompted by GPT.
+* Step 6 : Obtain a list of restaurants suited to you based on your prompts along with a graphical representation of the locations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Challenges
 
 While working on the project the following challenges were encountered:
-
-_Describe which challenges you faced during the project (e.g. there's an issue with missing public facilities data in Beirut, instability of image generation from prompts etc.)_ 
-* challenge 1
-* challenge 2
+ 
+* challenge 1 : Sorting the obtained information.
+* challenge 2 : Obtaining relaiable information and reviews.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,9 +154,11 @@ _Describe which challenges you faced during the project (e.g. there's an issue w
 
 _Describe the potential improvements or developments of the project (e.g. deploy the project, add more cities, add support for some feature)._
 
-- [x] step 1
-- [ ] step 2
-- [ ] step 3
+- [x] step 1 : Deployment and further sophistication as an App.
+- [ ] step 2 : Combined vibes to amount for combined values.
+- [ ] step 3 : Expansive or real time information filtering 
+- [ ] step 4 : Learning from user preferences.
+- [ ] step 5 : Expanding to multiple cities and localities
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url]
+AUTHORNAME - [@AUTHORNAME](https://github.com/Akshay-Madapura) - [e-mail](mailto:akshay.madapura@students.iaac.net) - [LinkedIn][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
